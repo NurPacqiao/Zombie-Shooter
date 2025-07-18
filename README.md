@@ -23,5 +23,4 @@ I'm a computer science student passionate about game development, storytelling, 
 
 ## Wanna try?
 Here's a link to the full game:
-https://drive.google.com/drive/folders/1_QzWzRSWQHaKyyE5nZRvJvVyWlBe2a5u?usp=sharing
-
+https://drive.google.com/drive/folders/1FL5EdO3BEIolgBd7gGflS3p5vsEVmD7X?usp=sharing
