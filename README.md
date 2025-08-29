@@ -1,26 +1,61 @@
-#  Zombie Shooter Game
+🧟 Zombie Shooter
 
-A 2D top-down zombie survival game built with Unity and C#. Take on endless waves of zombies with fluid movement, responsive shooting mechanics, and a clean user interface. Designed as part of my game development learning journey and portfolio.
+Zombie Shooter is a 3D survival game built from scratch using Unity and C#. Players must survive against endless waves of AI-controlled zombies, testing their reflexes, strategy, and endurance. Designed as part of my game development learning journey and portfolio.
 
-##  Features
+⸻
 
--  Smooth shooting and movement controls
--  Simple enemy AI and spawning system
--  Health and damage system
--  Visual effects (animations, blood splatter, etc.)
--  Score tracking and wave progression
--  Background music and SFX integration
+🚀 Features
 
-##  Built With
+•	Smooth player movement and responsive shooting mechanics
 
-- **Unity Engine**
-- **C# (MonoBehaviour Scripting)**
-- Custom assets and animations
+•	AI-controlled zombies with pathfinding and attack behaviors
 
-##  About the Developer
+•	Health and damage system for the player and enemies
 
-I'm a computer science student passionate about game development, storytelling, and creative coding. This project is a result of my curiosity to understand how games work behind the scenes and improve my Unity and C# skills.
+•	Wave progression with increasing difficulty
 
-## Wanna try?
-Here's a link to the full game:
-https://drive.google.com/drive/folders/1FL5EdO3BEIolgBd7gGflS3p5vsEVmD7X?usp=sharing
+•	Visual effects such as animations, blood splatter, and particle effects
+
+•	Score tracking to measure your survival performance
+
+•	Background music and sound effects for an immersive experience
+
+⸻
+
+🛠️ Technologies Used
+
+•	Unity Engine – game development platform
+
+•	C# (MonoBehaviour Scripting) – game logic and AI behavior
+
+•	NavMesh & AI Agents – zombie pathfinding
+
+•	Custom 3D assets and animations – modeling and rigging for enemies and environment
+
+⸻
+
+📦 How to Run
+
+1.	Clone the repository:
+ 
+git clone https://github.com/NurPacqiao/Zombie-Shooter.git
+
+2.	Open the project in Unity.
+
+3.	Press Play in the Unity Editor to start the game.
+   
+4.	Use WASD to move, Mouse to aim, and Left Click to shoot.
+   
+5.	Survive as long as possible against waves of zombies!
+
+⸻
+
+📝 About the Developer
+
+I’m a computer science student passionate about game development, storytelling, and creative coding. This project is a result of my curiosity to understand how games work behind the scenes and improve my Unity and C# skills.
+
+⸻
+
+📄 License
+
+This project is open-source and available under the MIT License.
